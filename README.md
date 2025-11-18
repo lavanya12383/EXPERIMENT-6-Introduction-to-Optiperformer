@@ -88,4 +88,6 @@ The system includes:
 
 ## RESULT
 
+
+[exp 6  opti fiber.pdf](https://github.com/user-attachments/files/23599293/exp.6.opti.fiber.pdf)
 *(Summarize key findings from simulation and analysis)*
