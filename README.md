@@ -56,13 +56,6 @@ Study the layout, which includes some text and boxes to identify the three compo
 <img width="1280" height="949" alt="514709270-501a457a-f648-4eb0-bf39-fb0e9554d525" src="https://github.com/user-attachments/assets/d45bd4f5-6495-4af3-8a2c-7315a5896375" />
 
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
 
 ---
 
@@ -70,5 +63,3 @@ Study the layout, which includes some text and boxes to identify the three compo
 
 ## RESULT
 Thus the simulation of optical communication system is successfully verified with BER analyzer
-[exp 6  opti fiber.pdf](https://github.com/user-attachments/files/23599293/exp.6.opti.fiber.pdf)
-*(Summarize key findings from simulation and analysis)*
