@@ -49,6 +49,9 @@ Study the layout, which includes some text and boxes to identify the three compo
 4. Description of eye diagram changes with increasing fiber length.
 
 ---
+### BLOCK DIAGRAM
+<img width="1235" height="670" alt="515254113-e1496dd8-cf75-4d3f-b4e0-15b361d1fc19" src="https://github.com/user-attachments/assets/5ee6f5c4-2cc1-4abd-aac2-e579522b513f" />
+
 
 ## Tabulation
 
