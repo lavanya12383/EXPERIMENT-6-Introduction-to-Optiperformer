@@ -39,6 +39,11 @@ Study the layout, which includes some text and boxes to identify the three compo
     The simulation is set to run 5 “iterations”, with the fiber length varying from 50 to 150 km in 5 steps. The index is displayed in the upper right corner of the layout. To step through the iterations, use the forward and reverse buttons in the lower left of the window. Note the change in received power and BER display (eye diagram, Q factor and BER) with fiber length.
 
 ---
+### BLOCK DIAGRAM
+
+![515254113-e1496dd8-cf75-4d3f-b4e0-15b361d1fc19](https://github.com/user-attachments/assets/2c0a8e6d-03a5-40c4-be1e-2863650e6914)
+
+
 
 ## Report
 <img width="1280" height="680" alt="514708965-1cc60fcd-38ee-4195-ad09-46390f75c673" src="https://github.com/user-attachments/assets/eadd0399-7b83-47dd-955f-ffeabc50b70e" />
@@ -49,11 +54,7 @@ Study the layout, which includes some text and boxes to identify the three compo
 4. Description of eye diagram changes with increasing fiber length.
 
 ---
-### BLOCK DIAGRAM
-<img width="1235" height="670" alt="515254113-e1496dd8-cf75-4d3f-b4e0-15b361d1fc19" src="https://github.com/user-attachments/assets/5ee6f5c4-2cc1-4abd-aac2-e579522b513f" />
 
-
-## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
 <img width="1280" height="949" alt="514709270-501a457a-f648-4eb0-bf39-fb0e9554d525" src="https://github.com/user-attachments/assets/d45bd4f5-6495-4af3-8a2c-7315a5896375" />
